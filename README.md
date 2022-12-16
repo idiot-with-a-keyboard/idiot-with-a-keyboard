@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary> PGP Key </summary>
+  
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGNZe+gBEADAhdRTE2kmAbKajcAmSZOJBQOWxcrQ/7zfZSCKzkoLozDTOfep
@@ -65,4 +68,6 @@ aoZWdlw1SBiCTBtaTKcGAZHBUxXU5qZUfHHd52SPQ2h71CSSiwiXIBfC9Ltme6Tk
 RrjeCJ9bKAPnjkvQQ/bjC1SUwqmUzQwpd53rp7s82mldWVlQHpJMbiEM/+VobwTP
 CZeuXy2lhK/u6auHedOgJkv+2oFRGrHH
 =S5rq
+
 -----END PGP PUBLIC KEY BLOCK-----
+</details>
