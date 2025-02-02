@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <details>
   <summary> PGP Key </summary>
   
------BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----<br>
 
 mDMEZ5/QARYJKwYBBAHaRw8BAQdAHvSTjs79OyppEWCldnqOiumtAgeJRtDKjpF2
 zqqSMFO0KFNoYXRyYW5qIDx0aGVraW5nb2ZvbGRjaGVzc0B0dXRhbm90YS5kZT6I
@@ -30,7 +30,7 @@ MKdJx0hbcu5N0COsVmU/XAMBCAeIfgQYFgoAJhYhBDVCyY7M8dFUiS89RZ3dE8pi
 0s9EBQJnn9ABAhsMBQkB4TOAAAoJEJ3dE8pi0s9E808BAKCIvO8QHeqTSRrKaNqp
 0DF7L11BoLJovH6n99I0AVz/AP4l34MOi1/P5b708d8kmm7Pyds1KrKhljK8tFR8
 7zm4Aw==
-=8hWd
+=8hWd<br>
 -----END PGP PUBLIC KEY BLOCK-----
 
 </details>
